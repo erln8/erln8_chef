@@ -1,0 +1,7 @@
+name 'erln8'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures erln8'
+long_description 'Installs/Configures erln8'
+version '0.1.0'
